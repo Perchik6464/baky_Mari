@@ -1,0 +1,56 @@
+
+/* Базовые стили */
+body{
+    color: #EB4C09;
+}
+.little_font{
+    font-size: 10px;
+}
+.small_font{
+    font-size: 12px;
+}
+.large_font{
+    font-size: 32px;
+}
+.bg{
+    background-image: url("../img/bg/bg_red.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+/* Обертка */
+.main_wrapper{
+    max-width: 425px;
+    margin: 0 auto;
+    position: relative;
+    box-sizing: border-box;
+}
+.minor_wrapper{
+    padding: 0 16px;
+}
+/* Навигация */
+.nav{
+    font-family: 'Montserrat-Medium';
+}
+.nav_items{
+    margin: 14px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+/* Интро блок */
+
+.intro_wrapper{
+    padding: 20px 17px;
+}
+.intro_title{
+    display: flex;
+    flex-direction: column;
+    .intro_title__right{
+        text-align: right;
+        line-height:16px;
+    }
+}
+
+
+.intro_title, .intro_quote{
+    color:#FFF8EF;
+}

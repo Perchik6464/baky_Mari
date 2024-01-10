@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'FoglihtenNo06';
+	src: url('../fonts/foglihtenno06/FoglihtenNo06_076.eot');/* IE 9 Compatibility Mode */
+	src: url('../fonts/foglihtenno06/FoglihtenNo06_076.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/foglihtenno06/FoglihtenNo06_076.woff2') format('woff2'),/* Super Modern Browsers */
+		url('../fonts/foglihtenno06/FoglihtenNo06_076.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/foglihtenno06/FoglihtenNo06_076.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/foglihtenno06/FoglihtenNo06_076.svg') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+@font-face{
+	font-family: 'Montserrat-Medium';
+	src: url('../fonts/Montserrat/Montserrat-Medium/Montserrat-Medium.eot');/* IE 9 Compatibility Mode */
+	src: url('../fonts/Montserrat/Montserrat-Medium/Montserrat-Medium.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/Montserrat/Montserrat-Medium/Montserrat-Medium.woff2') format('woff2'),/* Super Modern Browsers */
+		url('../fonts/Montserrat/Montserrat-Medium/Montserrat-Medium.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/Montserrat/Montserrat-Medium/Montserrat-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/Montserrat/Montserrat-Medium/Montserrat-Medium.svg') format('svg'); /* Chrome < 4, Legacy iOS */
+
+}
+@font-face{
+	font-family: 'Montserrat-Regular';
+	src: url('../fonts/Montserrat/Montserrat-Regular/Montserrat-Regular.eot');/* IE 9 Compatibility Mode */
+	src: url('../fonts/Montserrat/Montserrat-Regular/Montserrat-Regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/Montserrat/Montserrat-Regular/Montserrat-Regular.woff2') format('woff2'),/* Super Modern Browsers */
+		url('../fonts/Montserrat/Montserrat-Regular/Montserrat-Regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/Montserrat/Montserrat-Regular/Montserrat-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/Montserrat/Montserrat-Regular/Montserrat-Regular.svg') format('svg'); /* Chrome < 4, Legacy iOS */
+}
